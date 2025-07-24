@@ -1,0 +1,29 @@
+{
+  "main": {
+    "x": 360,
+    "y": 225,
+    "width": 1200,
+    "height": 750,
+    "rows": 2,
+    "columns": 2
+  },
+  "locked": {
+    "x": 1600,
+    "y": 225,
+    "width": 200,
+    "height": 750,
+    "rows": 6,
+    "columns": 1
+  },
+  "preparing": [
+    {
+      "x": 120,
+      "y": 225,
+      "width": 200,
+      "height": 750,
+      "rows": 6,
+      "columns": 1
+    }
+  ],
+  "replaceLockedInstances": false
+}

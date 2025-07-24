@@ -1,0 +1,10 @@
+{
+  "lock_instance": {
+    "replace": true,
+    "sounds": []
+  },
+  "reset_instance": {
+    "replace": true,
+    "sounds": []
+  }
+}
