@@ -3,6 +3,7 @@
 MCSR SeedQueue 用 wall テーマ(1920x1200 用)
 zip化しリソースパックとして読み込んでください
 
+BirchForest_646/assets/seedqueue/wall/custom_layout.json
 ```json
 {
   "main": {
